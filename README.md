@@ -7,4 +7,11 @@ This contains a simple example of just a forward pass with 2 layers, and only on
 
 Simple_MLP_Complete_Example : 
 Extension of the previous notebook, here one step of complete backpropogation is done. Loss used is Binary Cross Entropy (BCE) and Activation function used is sigmoid. 
-Further plans are to make a complete architecture for 'n' training examples, and giving the option to the user to decide the number of hidden layers, and neurons in each layer. Batch Gradient Descent is used since examples are used. 
+Further plans are to make a complete architecture for 'n' training examples, and giving the option to the user to decide the number of hidden layers, and neurons in each layer. Batch Gradient Descent is used since examples are less. 
+
+Work of iris Dataset:
+
+1) The first two notebooks contain the code for forward pass and one round of backward propogation on the last layer of the network.
+
+2) The complete notebook codes out the entire process. I have set my own architecture, which can be changed in the notebook, and different hyperparamters as well.
+   I have run the model on the dataset, for 1000 timesteps, and ended up with a loss of 50.10513544471444 at the final timestep. Note that no optimization techniques    were used, and the architeture I used was only 5 layers, with neurons ranging from 3-5. Hence the architecture used was very small.
