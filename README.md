@@ -1,5 +1,5 @@
 # Libraryless-ML
-Trying to code out some architectures without using most of the libraries - only using the 'time' module.
+Trying to code out some architectures without using most of the libraries - only using the 'time' module!
 Hence, most of these codes wouldn't be optimal due to not using vectorization concepts, but these are just for building them on my own!
 
 Simple_MLP_Forward_Pass_Example :
@@ -14,4 +14,4 @@ Work of iris Dataset:
 1) The first two notebooks contain the code for forward pass and one round of backward propogation on the last layer of the network.
 
 2) The complete notebook codes out the entire process. I have set my own architecture, which can be changed in the notebook, and different hyperparamters as well.
-   I have run the model on the dataset, for 1000 timesteps, and ended up with a loss of 50.10513544471444 at the final timestep. Note that no optimization techniques    were used, and the architeture I used was only 5 layers, with neurons ranging from 3-5. Hence the architecture used was very small.
+   I have run the model on the dataset, for 1000 timesteps, and ended up with a loss of 50.1051 at the final timestep. Note that no optimization techniques    were used, and the architeture I used was only 5 layers, with neurons ranging from 3-5. Hence the architecture used was very small.
