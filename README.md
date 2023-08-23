@@ -1,6 +1,7 @@
 # Libraryless-ML
 Trying to code out some architectures without using most of the libraries - only using the 'time' module!
-Hence, most of these codes wouldn't be optimal due to not using vectorization concepts, but these are just for building them on my own!
+
+Hence, most of these codes wouldn't be optimal due to not using vectorization and optimization concepts, but these are just for building them on my own!
 
 Simple_MLP_Forward_Pass_Example :
 This contains a simple example of just a forward pass with 2 layers, and only one training example, mainly to affirm the process.
