@@ -1,6 +1,8 @@
 # Libraryless-ML
 Trying to code out some architectures without using most of the libraries - only using the 'time' module!
 
+### Use nbviewer (https://nbviewer.org/) to view the truncated outputs!
+
 Hence, most of these codes wouldn't be optimal due to not using vectorization and optimization concepts, but these are just for building them on my own!
 
 Simple_MLP_Forward_Pass_Example :
