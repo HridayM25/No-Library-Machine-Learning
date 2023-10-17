@@ -1,7 +1,9 @@
 # Libraryless-ML
-Trying to code out some architectures without using most of the libraries - only using the 'time' module!
 
-### Use nbviewer (https://nbviewer.org/) to view the truncated outputs!
+### Use nbviewer (https://nbviewer.org/) to view the truncated outputs! 
+
+
+Trying to code out some architectures without using most of the libraries - only using the 'time' module!
 
 Hence, most of these codes wouldn't be optimal due to not using vectorization and optimization concepts, but these are just for building them on my own!
 
